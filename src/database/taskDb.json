@@ -1,0 +1,31 @@
+{
+    "tasks": [
+      {
+        "title": "Morning Routine Befor Breakfast",
+        "description": "Start the day with a short workout.",
+        "completed": false,
+        "priority": "high",
+        "id": "49dc90c7-de1e-45e6-88e0-12c4beab18f5",
+        "createdAt": "9/29/2023, 4:16:11 PM",
+        "updatedAt": "9/29/2023, 4:16:11 PM"
+      },
+      {
+        "title": "Morning Routine",
+        "description": "Start the day with a short workout and a helathy breakfast.",
+        "completed": true,
+        "priority": "high",
+        "id": "3404fc18-4e38-40cb-be06-5d49889412cd",
+        "createdAt": "9/29/2023, 4:16:47 PM",
+        "updatedAt": "9/29/2023, 4:16:47 PM"
+      },
+      {
+        "title": "Morning Routine to check mails",
+        "description": "Check all the mails after breakfast.",
+        "completed": false,
+        "priority": "medium",
+        "id": "4cb8185a-57ac-4a15-98c1-e0ad5715d143",
+        "createdAt": "9/29/2023, 7:18:43 PM",
+        "updatedAt": "9/29/2023, 7:18:43 PM"
+      }
+    ]
+  }
